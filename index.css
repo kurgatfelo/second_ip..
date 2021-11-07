@@ -129,4 +129,16 @@ p{
 }
 label{
     background-color: rgb(196, 188, 188);
-   
+    padding:4px;
+}
+.booking{
+    background-image: url("images/image8.png");
+    background-size: cover;
+    padding: 150px;
+    color: white;
+}
+.booking h5{
+    border: 2px solid white;
+    width: 100px;
+    padding: 5px;
+}

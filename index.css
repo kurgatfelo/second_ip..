@@ -142,3 +142,12 @@ label{
     width: 100px;
     padding: 5px;
 }
+.footer{
+    background-color: black;
+}
+footer{
+    color: white;
+    background-color: black;
+    height:20px;
+    font-size: 15px;
+}

@@ -81,4 +81,27 @@ p{
     display:block;
     
 
+} #numbers{
+    height: 30px;
+    width: 50px;
+    color: white;
+    padding: 10px;
+    border-radius: 120px;
+
+    background-color: rgb(255, 127, 80);
+}
+.review{
+    display: inline;
+    background-color: black;
+}
+.review li{
+    display: flex;
+    float: left;
+    height: 400px;
+    background-color: black;
+    color: white;
+    margin: 0px;
+    text-align: center;
+    width: 50%;
+
 }

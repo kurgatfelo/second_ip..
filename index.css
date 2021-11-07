@@ -105,3 +105,28 @@ p{
     width: 50%;
 
 }
+.Our_menu{
+   height: auto;
+   width: 100;
+   margin-top: 20px;
+}
+.Our_menu .text h4{
+    font-size: xx-large;
+    padding-top: 20px;
+}
+.Our_menu .menu_list{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap-reverse;
+    margin-bottom: 30px;
+}
+.Our_menu .menu_list li{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+label{
+    background-color: rgb(196, 188, 188);
+   

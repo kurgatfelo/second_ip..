@@ -16,4 +16,12 @@ body{
     color: white;
     padding: 50px;
 }
-
+.first_class{ 
+    width: 100%;
+    height: auto;
+    background-image:url("images/image2.png") ;
+    background-size: cover;
+    margin: 0px;
+    
+    
+}

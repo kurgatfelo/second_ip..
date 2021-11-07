@@ -48,3 +48,37 @@ span{
     color: coral;
 
 } 
+
+#services{
+
+font-size: xx-large;
+background-color: rgb(216, 31, 31);
+}
+p{
+    text-align: center;
+    
+}
+.services{
+    display:flex;
+
+}
+.services_list li{
+    display: flex;
+    height: 250px;
+    width: 250px;
+    float: right;
+    justify-content:space-around;
+    margin: 60px;
+    background-color:white;
+    padding: 20px;
+ 
+    
+}
+.services_list li div{
+    font-size: 30;
+}
+.services_list li p3{
+    display:block;
+    
+
+}

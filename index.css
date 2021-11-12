@@ -18,7 +18,7 @@ body{
 }
 .first_class{ 
     width: 100%;
-    height: auto;
+    height:auto;
     background-image:url("images/image2.png") ;
     background-size: cover;
     margin: 0px;
@@ -39,13 +39,13 @@ padding-top: 20px;
     display: inline;
 }
 #order{
-    background-color: coral;
+    background-color:#EF964B;
     line-height: 330px;
     margin-left: 30px;
     color: white;
 } 
 span{
-    color: coral;
+    color:#EF964B;
 
 } 
 
@@ -85,19 +85,23 @@ p{
     height: 30px;
     width: 50px;
     color: white;
-    padding: 10px;
-    border-radius: 120px;
+    padding: 18px;
 
-    background-color: rgb(255, 127, 80);
+    border-radius:50%;
+
+    background-color: #EF964B;
 }
 .review{
     display: inline;
     background-color: black;
 }
+.review .farm h6{
+    font-size: xx-large;
+}
 .review li{
     display: flex;
     float: left;
-    height: 400px;
+    height: 450px;
     background-color: black;
     color: white;
     margin: 0px;
